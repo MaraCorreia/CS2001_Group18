@@ -1,0 +1,84 @@
+Meetings:
+04/10/2021 - Group meeting during the lab - Team activity:
+Each member of the group choose their favourite application
+and discribed what are the best characteristics of that app
+that made them love it, we compared all the apps and characteristics
+and came up with the conclusion that the majority of this caracteristics
+were shared by all the applications that we choose. We decided that the
+most important caracteristics for our project would be:
+- Simple
+- Intuitive
+- Free
+- Fast
+- User focused
+- Uptodated
+We opened that SDG webpage and read all of the goals and 
+selected which ones were more appealing to us, and which ones
+were more in need, and then everyone started thinking about 
+how we could make something that would help on these
+goals and saying out loud any idea that would came up to our mind.
+We then had a list of various ideas. We made sure that each idea
+was being transmited clearly to everyone in the group. The list of ideas:
+- Homeless
+- Single plasctic
+- Refugee
+- Company Equality
+- Company Sustainability
+- Teacher Quality Education
+
+04/10/2021 - Meeting with tutor - We cut out the majority of 
+ideas we had after reflecting on many factors such as viability,
+necessity, urgency etc the final projects were: Homeless and
+Sustainability (this one was a mix of 2 other ideas).
+We started thinking about what problem do this project solve,
+who are our target audience, whats important to them, what are
+their needs, whats our solution, what are the key feauters of our
+solution, whats the functionality for the user, is our project
+unique? Is it being done already? Is it urgent? Relevant? Important?
+We also started working on our Mission Model Canvas. And 
+decided to sketch some ideas for the next meeting, to visualize
+both of our ideas. We also discussed about what tools we will
+be using to keep track and manage our work throught out the 
+development of the project. We decided to use: whatsapp as
+a quick method of communication, discord, as a easy tool for
+online group meetings, trello, as a white board to manage 
+everyone's tasks and progress, github so save the project and
+allow everyone to work on it in different branches, and finally
+google drive, to save documents and powerpoints and work on them
+at the same time.
+
+11/10/2021 - Meeting during the lab - In this meeting we finally decided
+what project we would be working on and the winner was the Homeless 
+Project. During this meeting we started by thinking about all the
+potential target users of this webapp.
+We created an EMPATHY MAP for our project. We created a list of
+functionalities and created a user storie for each one of them.
+Finally we finished our sketches for this Project.
+
+11/10/2021 - We presented our final idea for the project to 
+our tutor and requested feedback. We also started preperaring for
+the project pitch deliverable.
+Key questions for the day:
+What kind of web app will we create?
+What key features will it have?
+What functionalities it will provide?
+Who will use this app and why?
+Who are your end-users-ShareEmpathy or Customer Journey Maps?
+
+18/10/2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
